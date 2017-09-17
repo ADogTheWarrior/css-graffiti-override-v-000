@@ -3,10 +3,7 @@
   display: none;
 }
 
-
-
-
-div#wall  #tag-2 {/*Tag 2*/
+div#wall  #tag-2 {/*Tag 2 Done*/
   display: none;
 }
 
@@ -17,6 +14,11 @@ div#wall  #tag-2 {/*Tag 2*/
 div#wall #tag-3 .slick {/*Tag 3*/
   display: none;
 }
+
+
+
+
+
 
 #wall #tag-4 {/*Tag 4*/
   display: none;
