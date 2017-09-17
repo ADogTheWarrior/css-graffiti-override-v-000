@@ -7,7 +7,7 @@
   display: none;
 }
 
-{/*Tag 3*/
+div#wall #tag-3.'slick wicked'{/*Tag 3*/
   display: none;
 }
 
@@ -15,7 +15,7 @@
   display: none;
 }
 
-.parent > div{/*Tag 5*/
+{/*Tag 5*/
   display: none;
 }
 
