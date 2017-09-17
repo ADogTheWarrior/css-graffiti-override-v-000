@@ -19,7 +19,7 @@ div#wall #tag-3.slick.wicked{/*Tag 3 Done*/
 
 
 
-div#wall .parent #tag-5.slick {/*Tag 5*/
+div#wall div.parent #tag-5.slick {/*Tag 5*/
   display: none;
 }
 
