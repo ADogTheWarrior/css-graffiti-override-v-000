@@ -33,3 +33,7 @@ div#wall div.parent div:last-child div#tag-6 {/*Tag 6*/
 body div#wall div.parent div:first-child #tag-7.slick {/*Tag 7 Done*/
   display: none;
 }
+
+#wall div{
+  display: none;
+}
