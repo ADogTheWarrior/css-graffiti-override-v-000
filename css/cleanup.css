@@ -34,6 +34,6 @@ body div#wall div.parent div:first-child #tag-7.slick {/*Tag 7 Done*/
   display: none;
 }
 
-#wall div{
+#wall div{/*gets rid of at least tag 6 and 7*/
   display: none;
 }
