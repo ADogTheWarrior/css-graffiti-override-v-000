@@ -11,11 +11,6 @@ div#wall #tag-3.slick.wicked{/*Tag 3 Done*/
   display: none;
 }
 
-
-
-
-
-
 #wall .parent #tag-4 {/*Tag 4*/
   display: none;
 }
@@ -27,6 +22,11 @@ div#wall #tag-3.slick.wicked{/*Tag 3 Done*/
 div#wall .parent #tag-5.slick {/*Tag 5*/
   display: none;
 }
+
+
+
+
+
 
 div#wall div.parent div:last-child div#tag-6 {/*Tag 6*/
   display: none;
