@@ -22,7 +22,7 @@ div#wall div.parent #tag-5.slick {/*Tag 5 Done*/
 
 
 
-div#wall div.parent div#tag-6 {/*Tag 6*/
+div#wall div.parent div:last-child div div#tag-6 {/*Tag 6*/
   display: none;
 }
 
