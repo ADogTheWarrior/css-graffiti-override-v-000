@@ -22,7 +22,7 @@ div#wall div.parent #tag-5.slick {/*Tag 5 Done*/
 
 
 
-#wall .parent div:last-child div#tag-6 {/*Tag 6 Not working*/
+div#wall div.parent div:last-child div#tag-6 {/*Tag 6 Not working*/
   display: none;
 }
 
@@ -33,8 +33,7 @@ div#wall div.parent #tag-5.slick {/*Tag 5 Done*/
 body div#wall div.parent div:first-child #tag-7.slick {/*Tag 7 Done*/
   display: none;
 }
-/*
+
 #wall div{
   display: none;
 }
-*/
